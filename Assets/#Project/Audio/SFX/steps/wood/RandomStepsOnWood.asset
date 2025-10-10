@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-8637991793602264460
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 5_{-8637991793602264460}
+  m_AudioClip: {fileID: 8300000, guid: 06d241ab2cb0dcb4591e12e1ee9e3051, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-8586072865674220305
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 7_{-8586072865674220305}
+  m_AudioClip: {fileID: 8300000, guid: 6081cd65876ba59458cc71cc0f462559, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-7712387831218431077
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 1_{-7712387831218431077}
+  m_AudioClip: {fileID: 8300000, guid: cc10214fd9efc034b8a10cae83f03968, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-6772696811580840434
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 8_{-6772696811580840434}
+  m_AudioClip: {fileID: 8300000, guid: c0c594f36ee86f844a49f22d58dcfced, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4520677250023736750
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 0_{-4520677250023736750}
+  m_AudioClip: {fileID: 8300000, guid: dd2fb464b81ea3447982c4263b748b36, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-4242779095126968729
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 3_{-4242779095126968729}
+  m_AudioClip: {fileID: 8300000, guid: 91e5c1859c9d00449b69a37c11509a62, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &-1072468699312432300
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 4_{-1072468699312432300}
+  m_AudioClip: {fileID: 8300000, guid: 768c85b7f8ceed146a5602fc4fe48a46, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1233149941 &1563756389998012767
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 2_{1563756389998012767}
+  m_AudioClip: {fileID: 8300000, guid: aa6b60bd758248b448b22b03261625c4, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RandomStepsOnWood
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -4520677250023736750}
+  - {fileID: -7712387831218431077}
+  - {fileID: 1563756389998012767}
+  - {fileID: -4242779095126968729}
+  - {fileID: -1072468699312432300}
+  - {fileID: -8637991793602264460}
+  - {fileID: 9088885240976219260}
+  - {fileID: -8586072865674220305}
+  - {fileID: -6772696811580840434}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 1
+  m_TriggerMode: 1
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 2
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0
+--- !u!1233149941 &9088885240976219260
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 6_{9088885240976219260}
+  m_AudioClip: {fileID: 8300000, guid: 74234265ce8051a4b99105598d25ca71, type: 3}
+  m_Volume: 0
+  m_Enabled: 1
