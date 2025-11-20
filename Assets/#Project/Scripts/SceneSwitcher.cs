@@ -15,6 +15,7 @@ public class SceneSwitcher : MonoBehaviour
 
     public void SwitchScene()
     {
+        GameManager.instance.score += 5;
         SceneManager.LoadScene(sceneName);
     }
 }
